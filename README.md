@@ -38,18 +38,11 @@ _KVM_ или VirtualBox - Нет особых требований и тольк
 # Домашнее задание к занятию 4 «Оркестрация группой Docker контейнеров на примере Docker Compose»
 
 ## Задача 1
-
 https://hub.docker.com/r/borbul2007/custom-nginx
-
 ## Задача 2
-![virt-03-docker-intro-task2](https://github.com/user-attachments/assets/f5a5a43d-cf18-440d-949e-2d7572b01077)
-
-
+![virt-03-docker-intro-task2](https://github.com/user-attachments/assets/14de21b3-2d87-4dcf-bff1-9eebad07dd2a)
 ## Задача 3
-![virt-03-docker-intro-task3](https://github.com/user-attachments/assets/8f75685b-fd4b-4e73-8fa7-975b9079d4a4)
-
-
+![virt-03-docker-intro-task3](https://github.com/user-attachments/assets/7b88889f-de15-4434-935e-020588eb13bf)
 ## Задача 4
-
-
+![virt-03-docker-intro-task4](https://github.com/user-attachments/assets/db2234c1-3b18-43b0-a99c-1e6ee3c2c9d8)
 ## Задача 5
