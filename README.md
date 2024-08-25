@@ -46,3 +46,5 @@ https://hub.docker.com/r/borbul2007/custom-nginx
 ## Задача 4
 ![virt-03-docker-intro-task4](https://github.com/user-attachments/assets/db2234c1-3b18-43b0-a99c-1e6ee3c2c9d8)
 ## Задача 5
+
+![virt-03-docker-intro-task5-portrainer-containers-inspect](https://github.com/user-attachments/assets/e868e785-6c52-4903-8d58-b11dc1d6c7e1)
