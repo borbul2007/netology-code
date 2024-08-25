@@ -42,9 +42,11 @@ _KVM_ или VirtualBox - Нет особых требований и тольк
 https://hub.docker.com/r/borbul2007/custom-nginx
 
 ## Задача 2
+![virt-03-docker-intro-task2](https://github.com/user-attachments/assets/f5a5a43d-cf18-440d-949e-2d7572b01077)
 
 
 ## Задача 3
+![virt-03-docker-intro-task3](https://github.com/user-attachments/assets/8f75685b-fd4b-4e73-8fa7-975b9079d4a4)
 
 
 ## Задача 4
