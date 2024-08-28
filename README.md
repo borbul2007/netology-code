@@ -40,3 +40,16 @@ https://hub.docker.com/r/borbul2007/custom-nginx
 > Норм.
 > Задача 1 - Если задача про пуш, то сделать легко, url предоставлен, если про url - непонятно пока, как делать.
 > Задача 5 - п.4 - https - ожидаемо не работает; п.7 - выполнение "docker compose up -d" в контексте выполнения задания выдает "no configuration file provided: not found" - ожидаемо.
+# Домашнее задание к занятию 5. «Практическое применение Docker»
+## Задача 1
+https://github.com/borbul2007/shvirtd-example-python
+## Задача 2 (*)
+![virt-04-docker-in-practice-task2](https://github.com/user-attachments/assets/a886ed1c-23ec-44ca-bcc0-730ecb41c9f1)
+## Задача 3
+![virt-04-docker-in-practice-task3](https://github.com/user-attachments/assets/58aa41aa-daed-43c3-ae03-50224c83e0d4)
+## Задача 4
+![virt-04-docker-in-practice-task4](https://github.com/user-attachments/assets/48453d8d-8834-4850-a85b-7de675392455)
+## Задача 6
+![virt-04-docker-in-practice-task6](https://github.com/user-attachments/assets/0bda7f6f-a1be-4e51-997a-58fc259481b8)
+## Задача 6.1
+![virt-04-docker-in-practice-task6 1](https://github.com/user-attachments/assets/8a888cc1-0426-4528-90fe-c07d041d636d)
