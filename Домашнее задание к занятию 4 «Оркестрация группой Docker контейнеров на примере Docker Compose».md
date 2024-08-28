@@ -10,7 +10,7 @@ https://hub.docker.com/r/borbul2007/custom-nginx
 ## Задача 5
 ![virt-03-docker-intro-task5](https://github.com/user-attachments/assets/7056e6ad-7415-485c-95e0-2ae39419847e)
 ![virt-03-docker-intro-task5-portrainer-containers-inspect](https://github.com/user-attachments/assets/e868e785-6c52-4903-8d58-b11dc1d6c7e1)
-## Итого
+## Результат оценки задания
 > Норм.
 > Задача 1 - Если задача про пуш, то сделать легко, url предоставлен, если про url - непонятно пока, как делать.
 > Задача 5 - п.4 - https - ожидаемо не работает; п.7 - выполнение "docker compose up -d" в контексте выполнения задания выдает "no configuration file provided: not found" - ожидаемо.
