@@ -21,4 +21,4 @@ https://hub.docker.com/r/borbul2007/custom-nginx
 > В целом норм. \
 >  Задача 1 - Если задача про пуш, то сделать легко, url предоставлен, если про url - непонятно, как делать.\
 >  Задача 5 - п.4 - "https://127.0.0.1:9000"  - ожидаемо не работает;\
->             п.7 - выполнение "docker compose up -d" в контексте выполнения задания выдает "no configuration file provided: not found" - ожидаемо.
+>  Задача 5 - п.7 - выполнение "docker compose up -d" в контексте выполнения задания выдает "no configuration file provided: not found" - ожидаемо.
