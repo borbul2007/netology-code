@@ -5,8 +5,12 @@ https://hub.docker.com/r/borbul2007/custom-nginx
 ![virt-03-docker-intro-task2](https://github.com/user-attachments/assets/14de21b3-2d87-4dcf-bff1-9eebad07dd2a)
 ## Задача 3
 ![virt-03-docker-intro-task3](https://github.com/user-attachments/assets/7b88889f-de15-4434-935e-020588eb13bf)
+Ответ есть в снимке экрана. Выделен зеленым цветом. Дублирую:
+Удалили единственный запущенный процесс, контейнер завершил своё выполнение.
 ## Задача 4
 ![virt-03-docker-intro-task4](https://github.com/user-attachments/assets/db2234c1-3b18-43b0-a99c-1e6ee3c2c9d8)
+Ответ есть в снимке экрана. Выделен зеленым цветом. Дублирую:
+Если присутствуют оба файла, будет использован compose.yaml
 ## Задача 5
 ![virt-03-docker-intro-task5](https://github.com/user-attachments/assets/7056e6ad-7415-485c-95e0-2ae39419847e)
 ![virt-03-docker-intro-task5-portrainer-containers-inspect](https://github.com/user-attachments/assets/e868e785-6c52-4903-8d58-b11dc1d6c7e1)
