@@ -15,7 +15,7 @@ https://hub.docker.com/r/borbul2007/custom-nginx
 Если присутствуют оба файла, будет использован compose.yaml\
 \
 ![virt-03-docker-intro-task5-portrainer-containers-inspect](https://github.com/user-attachments/assets/e868e785-6c52-4903-8d58-b11dc1d6c7e1)
-Если выполненить "docker compose up -d" в контексте выполнения задания выдает "no configuration file provided: not found" - ожидаемо, т.к. мы только, что удалили файл на предыдущем шаге.
+Если выполнить "docker compose up -d" в контексте выполнения задания выдает "no configuration file provided: not found" - ожидаемо, т.к. мы только, что удалили файл на предыдущем шаге.
 
 ## Моё мнение (можно не читать)
 > В целом норм. \
