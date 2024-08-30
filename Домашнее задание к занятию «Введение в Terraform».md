@@ -7,3 +7,15 @@
 8. Потому
 
 ![ter-homeworks-01-task1-1](https://github.com/user-attachments/assets/95a0ee7e-64e9-4e73-b683-c03d99587328)
+
+~~~
+{
+  "version": 4,
+  "terraform_version": "1.8.5",
+  "serial": 17,
+  "lineage": "1d4cb22b-be36-95b0-60b8-cf5840b26cc5",
+  "outputs": {},
+  "resources": [],
+  "check_results": null
+}
+~~~
