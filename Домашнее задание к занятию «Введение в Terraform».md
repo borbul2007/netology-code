@@ -1,21 +1,15 @@
 ## Задание 1
-0. На снимке экрана есть версия
-2. personal.auto.tfvars
-3. "result": "EjoJQbO2ylC3O5mM"
-4. Имя ресурса должно начинаться с _ или буквы и должно быть - nginx. Неправильное имя ресурса и должно быть resource "docker_image" "nginx". Неверное имя должно быть "example_${random_password.random_string.result}"
-6. -auto-approve - автоматическое подтверждение
-8. keep_locally (Boolean) If true, then the Docker image won't be deleted on destroy operation. If this is false, it will delete the image from the docker local storage on destroy operation.
+0 На снимке экрана есть версия\
+2 personal.auto.tfvars\
+3 "result": "EjoJQbO2ylC3O5mM"\
+4 Имя ресурса должно начинаться с _ или буквы и должно быть - nginx.\
+  Неправильное имя ресурса и должно быть resource "docker_image" "nginx"\
+  Неверное имя должно быть "example_${random_password.random_string.result}"\
+5\
+![ter-homeworks-01-task1-1](https://github.com/user-attachments/assets/e399893b-d5a3-4227-a83e-52c807f61daf)
 
-![ter-homeworks-01-task1-1](https://github.com/user-attachments/assets/95a0ee7e-64e9-4e73-b683-c03d99587328)
+6 -auto-approve - автоматическое подтверждение\
+7\
+![ter-homeworks-01-task1-2](https://github.com/user-attachments/assets/69705c6a-9fbe-4bc4-b7d0-59447f7dc6e8)
 
-~~~
-{
-  "version": 4,
-  "terraform_version": "1.8.5",
-  "serial": 17,
-  "lineage": "1d4cb22b-be36-95b0-60b8-cf5840b26cc5",
-  "outputs": {},
-  "resources": [],
-  "check_results": null
-}
-~~~
+8 keep_locally (Boolean) If true, then the Docker image won't be deleted on destroy operation. If this is false, it will delete the image from the docker local storage on destroy operation
