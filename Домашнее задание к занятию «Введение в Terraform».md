@@ -4,7 +4,7 @@
 3. "result": "EjoJQbO2ylC3O5mM"
 4. Имя ресурса должно начинаться с _ или буквы и должно быть - nginx. Неправильное имя ресурса и должно быть resource "docker_image" "nginx". Неверное имя должно быть "example_${random_password.random_string.result}"
 6. -auto-approve - автоматическое подтверждение
-8. Потому
+8. keep_locally (Boolean) If true, then the Docker image won't be deleted on destroy operation. If this is false, it will delete the image from the docker local storage on destroy operation.
 
 ![ter-homeworks-01-task1-1](https://github.com/user-attachments/assets/95a0ee7e-64e9-4e73-b683-c03d99587328)
 
